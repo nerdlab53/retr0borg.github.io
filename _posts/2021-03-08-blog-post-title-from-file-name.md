@@ -1,32 +1,7 @@
-## Blog Post Title From First Header
+## what I learned after fine tuning multiple LLMs and my next move forward
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+i have been able to work on many kinds of multimodal AI models mainly LLMs for now and have been following whatever new has been happening in the space.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+least to say I have been fascinated by the way LLMs do what they do and how they do so much so that i decided i had to learn this technology and I am glad that i did..
 
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+to be continued ..
